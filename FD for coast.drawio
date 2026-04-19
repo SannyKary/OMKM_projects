@@ -1,88 +1,88 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="Страница-1" id="5RszcFqm--sPhPtSSHNC">
-    <mxGraphModel dx="1334" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1942" dy="1052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-33" parent="1" style="ellipse;whiteSpace=wrap;" value="Начало" vertex="1">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-33" parent="1" style="ellipse;whiteSpace=wrap;labelBackgroundColor=none;" value="Начало" vertex="1">
           <mxGeometry height="40" width="80" x="320" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-34" parent="1" style="shape=parallelogram;fixedSize=1;whiteSpace=wrap;" value="Ввод изображения&#xa;W, ε" vertex="1">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-34" parent="1" style="shape=parallelogram;fixedSize=1;whiteSpace=wrap;labelBackgroundColor=none;" value="Ввод изображения&#xa;W, ε" vertex="1">
           <mxGeometry height="60" width="160" x="280" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-35" parent="1" style="rounded=0;whiteSpace=wrap;" value="Бинаризация" vertex="1">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-35" parent="1" style="rounded=0;whiteSpace=wrap;labelBackgroundColor=none;" value="Бинаризация" vertex="1">
           <mxGeometry height="40" width="120" x="300" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-36" parent="1" style="rounded=0;whiteSpace=wrap;" value="Выделение контура" vertex="1">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-36" parent="1" style="rounded=0;whiteSpace=wrap;labelBackgroundColor=none;" value="Выделение контура" vertex="1">
           <mxGeometry height="40" width="120" x="300" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-37" parent="1" style="rounded=0;whiteSpace=wrap;" value="Скелетизация" vertex="1">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-37" parent="1" style="rounded=0;whiteSpace=wrap;labelBackgroundColor=none;" value="Скелетизация" vertex="1">
           <mxGeometry height="40" width="120" x="300" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-38" parent="1" style="rhombus;whiteSpace=wrap;" value="Все окна пройдены?" vertex="1">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-38" parent="1" style="rhombus;whiteSpace=wrap;labelBackgroundColor=none;" value="Все окна пройдены?" vertex="1">
           <mxGeometry height="80" width="160" x="280" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-39" parent="1" style="rhombus;whiteSpace=wrap;" value="Все ε вычислены?" vertex="1">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-39" parent="1" style="rhombus;whiteSpace=wrap;labelBackgroundColor=none;" value="Все ε вычислены?" vertex="1">
           <mxGeometry height="80" width="160" x="280" y="500" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-40" parent="1" style="rounded=0;whiteSpace=wrap;" value="Подсчет N(ε) + CMF" vertex="1">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-40" parent="1" style="rounded=0;whiteSpace=wrap;labelBackgroundColor=none;" value="Подсчет N(ε) + CMF" vertex="1">
           <mxGeometry height="40" width="140" x="500" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-41" parent="1" style="rounded=0;whiteSpace=wrap;" value="Выбор min N(ε)" vertex="1">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-41" parent="1" style="rounded=0;whiteSpace=wrap;labelBackgroundColor=none;" value="Выбор min N(ε)" vertex="1">
           <mxGeometry height="40" width="140" x="500" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-42" parent="1" style="rounded=0;whiteSpace=wrap;" value="Расчет МНК" vertex="1">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-42" parent="1" style="rounded=0;whiteSpace=wrap;labelBackgroundColor=none;" value="Расчет МНК" vertex="1">
           <mxGeometry height="40" width="120" x="300" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-43" parent="1" style="rounded=0;whiteSpace=wrap;" value="Запись D_local" vertex="1">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-43" parent="1" style="rounded=0;whiteSpace=wrap;labelBackgroundColor=none;" value="Запись D_local" vertex="1">
           <mxGeometry height="40" width="120" x="300" y="680" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-44" parent="1" style="rounded=0;whiteSpace=wrap;" value="Тепловая карта" vertex="1">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-44" parent="1" style="rounded=0;whiteSpace=wrap;labelBackgroundColor=none;" value="Тепловая карта" vertex="1">
           <mxGeometry height="40" width="120" x="300" y="780" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-45" parent="1" style="rounded=0;whiteSpace=wrap;" value="Стат. анализ" vertex="1">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-45" parent="1" style="rounded=0;whiteSpace=wrap;labelBackgroundColor=none;" value="Стат. анализ" vertex="1">
           <mxGeometry height="40" width="120" x="300" y="840" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-46" parent="1" style="shape=parallelogram;fixedSize=1;whiteSpace=wrap;" value="Вывод отчета" vertex="1">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-46" parent="1" style="shape=parallelogram;fixedSize=1;whiteSpace=wrap;labelBackgroundColor=none;" value="Вывод отчета" vertex="1">
           <mxGeometry height="50" width="140" x="290" y="910" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-47" parent="1" style="ellipse;whiteSpace=wrap;" value="Конец" vertex="1">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-47" parent="1" style="ellipse;whiteSpace=wrap;labelBackgroundColor=none;" value="Конец" vertex="1">
           <mxGeometry height="40" width="80" x="320" y="990" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-48" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-33" target="rsp-gIEi3x-SC83Q4U99-34">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-48" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-33" style="labelBackgroundColor=none;fontColor=default;" target="rsp-gIEi3x-SC83Q4U99-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-49" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-34" target="rsp-gIEi3x-SC83Q4U99-35">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-49" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-34" style="labelBackgroundColor=none;fontColor=default;" target="rsp-gIEi3x-SC83Q4U99-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-50" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-35" target="rsp-gIEi3x-SC83Q4U99-36">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-50" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-35" style="labelBackgroundColor=none;fontColor=default;" target="rsp-gIEi3x-SC83Q4U99-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-51" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-36" target="rsp-gIEi3x-SC83Q4U99-37">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-51" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-36" style="labelBackgroundColor=none;fontColor=default;" target="rsp-gIEi3x-SC83Q4U99-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-52" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-37" target="rsp-gIEi3x-SC83Q4U99-38">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-52" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-37" style="labelBackgroundColor=none;fontColor=default;" target="rsp-gIEi3x-SC83Q4U99-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-53" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-38" target="rsp-gIEi3x-SC83Q4U99-39" value="Нет">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-53" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-38" style="labelBackgroundColor=none;fontColor=default;" target="rsp-gIEi3x-SC83Q4U99-39" value="Нет">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-54" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-39" target="rsp-gIEi3x-SC83Q4U99-40" value="Нет">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-54" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-39" style="labelBackgroundColor=none;fontColor=default;" target="rsp-gIEi3x-SC83Q4U99-40" value="Нет">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-55" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-40" target="rsp-gIEi3x-SC83Q4U99-41">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-55" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-40" style="labelBackgroundColor=none;fontColor=default;" target="rsp-gIEi3x-SC83Q4U99-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-56" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-41" style="entryX=1;entryY=0;" target="rsp-gIEi3x-SC83Q4U99-39">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-56" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-41" style="entryX=1;entryY=0;labelBackgroundColor=none;fontColor=default;" target="rsp-gIEi3x-SC83Q4U99-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-57" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-39" target="rsp-gIEi3x-SC83Q4U99-42" value="Да">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-57" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-39" style="labelBackgroundColor=none;fontColor=default;" target="rsp-gIEi3x-SC83Q4U99-42" value="Да">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-58" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-42" target="rsp-gIEi3x-SC83Q4U99-43">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-58" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-42" style="labelBackgroundColor=none;fontColor=default;" target="rsp-gIEi3x-SC83Q4U99-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-59" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-43" style="entryX=0;entryY=0.5;exitX=0;exitY=0.5;" target="rsp-gIEi3x-SC83Q4U99-38">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-59" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-43" style="entryX=0;entryY=0.5;exitX=0;exitY=0.5;labelBackgroundColor=none;fontColor=default;" target="rsp-gIEi3x-SC83Q4U99-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="240" y="700" />
@@ -92,7 +92,7 @@
             <mxPoint x="200" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-60" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-38" target="rsp-gIEi3x-SC83Q4U99-44" value="Да">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-60" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-38" style="labelBackgroundColor=none;fontColor=default;" target="rsp-gIEi3x-SC83Q4U99-44" value="Да">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="720" y="420" />
@@ -102,13 +102,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-61" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-44" target="rsp-gIEi3x-SC83Q4U99-45">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-61" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-44" style="labelBackgroundColor=none;fontColor=default;" target="rsp-gIEi3x-SC83Q4U99-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-62" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-45" target="rsp-gIEi3x-SC83Q4U99-46">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-62" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-45" style="labelBackgroundColor=none;fontColor=default;" target="rsp-gIEi3x-SC83Q4U99-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-63" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-46" target="rsp-gIEi3x-SC83Q4U99-47">
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-63" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-46" style="labelBackgroundColor=none;fontColor=default;" target="rsp-gIEi3x-SC83Q4U99-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
