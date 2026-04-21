@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="Страница-1" id="5RszcFqm--sPhPtSSHNC">
-    <mxGraphModel dx="847" dy="985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0" adaptiveColors="none">
+    <mxGraphModel dx="3113" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0" adaptiveColors="none">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,38 +16,35 @@
         <mxCell id="rsp-gIEi3x-SC83Q4U99-36" parent="1" style="rounded=0;whiteSpace=wrap;labelBackgroundColor=none;" value="Выделение контура" vertex="1">
           <mxGeometry height="40" width="120" x="300" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-37" parent="1" style="rounded=0;whiteSpace=wrap;labelBackgroundColor=none;" value="Скелетизация" vertex="1">
-          <mxGeometry height="40" width="120" x="300" y="300" as="geometry" />
-        </mxCell>
         <mxCell id="rsp-gIEi3x-SC83Q4U99-38" parent="1" style="rhombus;whiteSpace=wrap;labelBackgroundColor=none;" value="Все окна пройдены?" vertex="1">
-          <mxGeometry height="80" width="160" x="280" y="380" as="geometry" />
+          <mxGeometry height="80" width="160" x="280" y="310" as="geometry" />
         </mxCell>
         <mxCell id="rsp-gIEi3x-SC83Q4U99-39" parent="1" style="rhombus;whiteSpace=wrap;labelBackgroundColor=none;" value="Все ε вычислены?" vertex="1">
-          <mxGeometry height="80" width="160" x="280" y="500" as="geometry" />
+          <mxGeometry height="80" width="160" x="280" y="430" as="geometry" />
         </mxCell>
         <mxCell id="rsp-gIEi3x-SC83Q4U99-40" parent="1" style="rounded=0;whiteSpace=wrap;labelBackgroundColor=none;" value="Подсчет N(ε) + CMF" vertex="1">
-          <mxGeometry height="40" width="140" x="210" y="660" as="geometry" />
+          <mxGeometry height="40" width="140" x="210" y="590" as="geometry" />
         </mxCell>
         <mxCell id="rsp-gIEi3x-SC83Q4U99-41" parent="1" style="rounded=0;whiteSpace=wrap;labelBackgroundColor=none;" value="Выбор min N(ε)" vertex="1">
-          <mxGeometry height="40" width="140" x="460" y="660" as="geometry" />
+          <mxGeometry height="40" width="140" x="460" y="590" as="geometry" />
         </mxCell>
         <mxCell id="rsp-gIEi3x-SC83Q4U99-42" parent="1" style="rounded=0;whiteSpace=wrap;labelBackgroundColor=none;" value="Расчет МНК" vertex="1">
-          <mxGeometry height="40" width="120" x="70" y="520" as="geometry" />
+          <mxGeometry height="40" width="120" x="70" y="450" as="geometry" />
         </mxCell>
         <mxCell id="rsp-gIEi3x-SC83Q4U99-43" parent="1" style="rounded=0;whiteSpace=wrap;labelBackgroundColor=none;" value="Запись D_local" vertex="1">
-          <mxGeometry height="40" width="120" x="70" y="580" as="geometry" />
+          <mxGeometry height="40" width="120" x="70" y="510" as="geometry" />
         </mxCell>
         <mxCell id="rsp-gIEi3x-SC83Q4U99-44" parent="1" style="rounded=0;whiteSpace=wrap;labelBackgroundColor=none;" value="Тепловая карта" vertex="1">
-          <mxGeometry height="40" width="120" x="620" y="450" as="geometry" />
+          <mxGeometry height="40" width="120" x="620" y="380" as="geometry" />
         </mxCell>
         <mxCell id="rsp-gIEi3x-SC83Q4U99-45" parent="1" style="rounded=0;whiteSpace=wrap;labelBackgroundColor=none;" value="Стат. анализ" vertex="1">
-          <mxGeometry height="40" width="120" x="620" y="510" as="geometry" />
+          <mxGeometry height="40" width="120" x="620" y="440" as="geometry" />
         </mxCell>
         <mxCell id="rsp-gIEi3x-SC83Q4U99-46" parent="1" style="shape=parallelogram;fixedSize=1;whiteSpace=wrap;labelBackgroundColor=none;" value="Вывод отчета" vertex="1">
-          <mxGeometry height="50" width="140" x="610" y="580" as="geometry" />
+          <mxGeometry height="50" width="140" x="610" y="510" as="geometry" />
         </mxCell>
         <mxCell id="rsp-gIEi3x-SC83Q4U99-47" parent="1" style="ellipse;whiteSpace=wrap;labelBackgroundColor=none;" value="Конец" vertex="1">
-          <mxGeometry height="40" width="80" x="640" y="660" as="geometry" />
+          <mxGeometry height="40" width="80" x="640" y="600" as="geometry" />
         </mxCell>
         <mxCell id="rsp-gIEi3x-SC83Q4U99-48" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-33" style="labelBackgroundColor=none;fontColor=default;" target="rsp-gIEi3x-SC83Q4U99-34">
           <mxGeometry relative="1" as="geometry" />
@@ -58,18 +55,17 @@
         <mxCell id="rsp-gIEi3x-SC83Q4U99-50" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-35" style="labelBackgroundColor=none;fontColor=default;" target="rsp-gIEi3x-SC83Q4U99-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-51" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-36" style="labelBackgroundColor=none;fontColor=default;" target="rsp-gIEi3x-SC83Q4U99-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-52" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-37" style="labelBackgroundColor=none;fontColor=default;" target="rsp-gIEi3x-SC83Q4U99-38">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-51" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-36" style="labelBackgroundColor=none;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rsp-gIEi3x-SC83Q4U99-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360.0000000000002" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rsp-gIEi3x-SC83Q4U99-53" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-38" style="labelBackgroundColor=none;fontColor=default;" target="rsp-gIEi3x-SC83Q4U99-39" value="Нет">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rsp-gIEi3x-SC83Q4U99-54" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-39" style="labelBackgroundColor=none;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rsp-gIEi3x-SC83Q4U99-40" value="Нет">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="660" as="targetPoint" />
+            <mxPoint x="360" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rsp-gIEi3x-SC83Q4U99-55" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-40" style="labelBackgroundColor=none;fontColor=default;" target="rsp-gIEi3x-SC83Q4U99-41">
@@ -89,31 +85,35 @@
         <mxCell id="rsp-gIEi3x-SC83Q4U99-59" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-43" style="entryX=0;entryY=0.5;exitX=0.5;exitY=1;labelBackgroundColor=none;fontColor=default;exitDx=0;exitDy=0;" target="rsp-gIEi3x-SC83Q4U99-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="130" y="650" />
-              <mxPoint x="40" y="650" />
-              <mxPoint x="40" y="420" />
-              <mxPoint x="240" y="420" />
+              <mxPoint x="130" y="580" />
+              <mxPoint x="40" y="580" />
+              <mxPoint x="40" y="350" />
+              <mxPoint x="240" y="350" />
             </Array>
-            <mxPoint x="200" y="550" as="sourcePoint" />
-            <mxPoint x="200" y="420" as="targetPoint" />
+            <mxPoint x="200" y="480" as="sourcePoint" />
+            <mxPoint x="200" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rsp-gIEi3x-SC83Q4U99-60" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-38" style="labelBackgroundColor=none;fontColor=default;" target="rsp-gIEi3x-SC83Q4U99-44" value="Да">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="680" y="420" />
-              <mxPoint x="680" y="450" />
+              <mxPoint x="680" y="350" />
+              <mxPoint x="680" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rsp-gIEi3x-SC83Q4U99-61" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-44" style="labelBackgroundColor=none;fontColor=default;" target="rsp-gIEi3x-SC83Q4U99-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-62" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-45" style="labelBackgroundColor=none;fontColor=default;" target="rsp-gIEi3x-SC83Q4U99-46">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-62" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-45" style="labelBackgroundColor=none;fontColor=default;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="510" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="rsp-gIEi3x-SC83Q4U99-63" edge="1" parent="1" source="rsp-gIEi3x-SC83Q4U99-46" style="labelBackgroundColor=none;fontColor=default;" target="rsp-gIEi3x-SC83Q4U99-47">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rsp-gIEi3x-SC83Q4U99-63" edge="1" parent="1" style="labelBackgroundColor=none;fontColor=default;" target="rsp-gIEi3x-SC83Q4U99-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="560" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
